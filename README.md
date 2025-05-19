@@ -1,0 +1,2 @@
+# fastApi
+python_project
